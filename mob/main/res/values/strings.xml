@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PodgotovkaMD</string>
+    <string name="textChange">Change</string>
+    <string name="textAddStudent">Add student</string>
+    <string name="textReportByGroup">Report by group</string>
+    <string name="textPibd42" translatable="false">ПИбд-42</string>
+    <string name="textFio">FIO</string>
+    <string name="textGroup">Group</string>
+    <string name="textAdd">Add</string>
+    <string name="textImport">Import</string>
+    <string name="textExport">Export</string>
+    <string name="students">Students</string>
+    <string name="textDelete">Delete</string>
+</resources>

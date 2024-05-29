@@ -1,0 +1,20 @@
+
+body{
+    background-color: gainsboro;
+}
+#card{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    border-radius: 10px;
+    border-style: solid;
+}
+
+form{
+    text-align: center;
+    width: 200px;
+    padding: 10px;
+    height: min-content;
+}

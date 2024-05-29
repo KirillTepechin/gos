@@ -1,0 +1,25 @@
+#content-wrapper{
+    margin-block: 20px;
+    column-count: 2;
+}
+p{
+    margin-top: 0;
+}
+#header{
+    display: flex;
+    background-color: black;
+}
+a{
+    color: white;
+    flex: 1;
+}
+footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align: center;
+    background: rgb(255, 255, 255)
+}
+body{
+    background-color: gainsboro;
+}
